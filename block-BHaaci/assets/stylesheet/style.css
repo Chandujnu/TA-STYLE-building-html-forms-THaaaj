@@ -103,6 +103,7 @@ legend {
 legend span {
     font-size: 15px;
     font-weight: 100;
+    font-weight: 400;
 }
 .form-control {
     display: block;
